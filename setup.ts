@@ -1,1 +1,1 @@
-// TODO: populate pre test hooks needed to mock redis
+jest.setTimeout(30000);
