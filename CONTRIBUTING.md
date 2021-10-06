@@ -8,7 +8,7 @@
 
 - Node.js installed on your machine greater or equal to node `14.x.x`
 - If using Redis locally, a local installed version of Redis is needed. If using a Mac, Please see this [guide](https://phoenixnap.com/kb/install-redis-on-mac) on how to install Redis with Brew.
-- a populated `.env` and `.env.test`. Please ask your technical lead to help get this set up for you.
+- a populated `.env`. Please ask project owner to help get this set up for you.
 
 ## Installation
 
@@ -55,7 +55,7 @@ To debug Jest tests, please select the `Debug Jest Tests` option.
 
 ## CI/CD
 
-- This repo has a robust [Github Actions]() workflow that executes tests and builds the application dockerfile.
+- This repo has a robust [Github Actions](https://github.com/AtofStryker/train-scheduler/actions) workflow that executes tests and builds the application dockerfile.
 
 ## Debugging and Running the Server
 
