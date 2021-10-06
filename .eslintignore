@@ -1,0 +1,10 @@
+node_modules
+dist
+jest.config.ts
+.eslintrc
+package*.json
+tsconfig.json
+tsconfig.build.json
+nodemon-debug.json
+nest-cli.json
+__mocks__/
